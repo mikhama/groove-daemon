@@ -3,4 +3,4 @@ Raspberry Pi–based system for monitoring vinyl playback. Tracks stylus usage t
 
 ## Development
 - Install dependencies with `poetry shell && poetry install`.
-- Run with `poetry run python -m app.audio_detector`.
+- Run with `poetry run python -m app.main`.
