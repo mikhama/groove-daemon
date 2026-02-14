@@ -1,3 +1,4 @@
 .codemie
 .venv
 __pycache__
+.data/
